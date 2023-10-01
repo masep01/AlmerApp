@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027053373518",
+    "firebase_url": "https://app-tdr-94542.firebaseio.com",
+    "project_id": "app-tdr-94542",
+    "storage_bucket": "app-tdr-94542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027053373518:android:6e709a3a4a014a026d5b1f",
+        "android_client_info": {
+          "package_name": "com.example.apptr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027053373518-d2vr2te221qhamihf4puqjdo9l471np5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgeO47wRfzi0fIW0ItA028hsX42wQHpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027053373518-d2vr2te221qhamihf4puqjdo9l471np5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#155263</color>
+    <color name="colorPrimaryDark">#11999e</color>
+    <color name="colorAccent">#ff6f3c</color>
+    <color name="colorAccentDark">#ff9a3c</color>
+    <color name="colorAccentLight">#ffc93c</color>
+    <color name="colorPrimaryLight">#B2DFDB</color>
+
+    <color name="colorPrimarySelected">#E7EDEF</color>
+    <color name="red1">#f44336</color>
+
+    <color name="color1_profileactivity">#155263</color>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:drawable="@drawable/tarjeta1"
+      android:rotationX="180"/>
+
+  <item>
+    <bitmap
+        android:gravity="center"
+        android:src="@mipmap/ic_1_foreground"/>
+  </item>
+
+</layer-list>

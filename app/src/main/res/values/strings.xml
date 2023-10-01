@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="bloc1_tecno">
+        <item>Tecnologia Ind.</item>
+        <item>Química</item>
+        <item>Altra</item>
+    </string-array>
+
+    <string-array name="bloc2_tecno">
+        <item>Electrotècnia</item>
+        <item>Dibuix tècnic</item>
+        <item>Altra</item>
+    </string-array>
+
+    <string-array name="bloc1_cientfic">
+        <item>Física</item>
+        <item>Ciències de la terra</item>
+        <item>Altra</item>
+    </string-array>
+
+    <string-array name="bloc1_social">
+        <item>Eco. Empresa</item>
+        <item>Història de l\'art</item>
+        <item>Altra</item>
+    </string-array>
+
+    <string-array name="classes">
+        <item>2n A (CT)</item>
+        <item>2n B (Soc-Hum)</item>
+
+    </string-array>
+    <string name="title_activity_avg_calculator">Avg_calculator</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_tabbed">tabbed</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_navdrawer">navdrawer</string>
+
+
+</resources>

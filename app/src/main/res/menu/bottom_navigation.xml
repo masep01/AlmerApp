@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:andoid="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_agenda"
+        android:icon="@drawable/ic_agenda"
+        android:title="Agenda" />
+
+    <item
+        android:id="@+id/nav_calc_mitjanes"
+        android:icon="@drawable/ic_calc_mitjes"
+        android:title="Mitjes" />
+
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_person"
+        android:title="Perfil" />
+
+
+
+</menu>
